@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 name = TonkataLud
-size = 1.5e5945475834
+size = 1.5e59454754
 email = antonitomovofficial@abv.bg
-=======
+
 name = Tonkata
 size = 1000004545445
 email = antonitomovofficial@abv.bg
@@ -14,4 +14,3 @@ email = nikolov84@yahoo.com
 name = Ristio
 size = 1023
 email = hristostoyanov94@gmail.com
->>>>>>> afffe88d342f3d71b88c37f303de868152ff1330

@@ -5,3 +5,7 @@ email = antonitomovofficial@abv.bg
 name = NikiTo
 size = 1000003509834098345345
 email = nikolov84@yahoo.com
+
+name = Ristio
+size = 1023
+email = hristostoyanov94@gmail.com

@@ -4,7 +4,7 @@ size = 1.5e59454754
 email = antonitomovofficial@abv.bg
 
 name = Tonkata
-size = 1000004545445
+size = 10000.98098098 <- promqnata ^^
 email = antonitomovofficial@abv.bg
 
 name = NikiTo
